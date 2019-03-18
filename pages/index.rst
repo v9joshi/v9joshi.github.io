@@ -1,6 +1,6 @@
 .. title: About Me
-.. slug: about-me
-.. date: 2019-03-18 18:02:50 UTC-04:00
+.. slug: index
+.. date: 2019-03-18 18:15:59 UTC-04:00
 .. tags: 
 .. category: 
 .. link: 
