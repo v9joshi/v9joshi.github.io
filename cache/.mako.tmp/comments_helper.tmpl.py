@@ -5,7 +5,7 @@ STOP_RENDERING = runtime.STOP_RENDERING
 __M_dict_builtin = dict
 __M_locals_builtin = locals
 _magic_number = 10
-_modified_time = 1552943869.998428
+_modified_time = 1552944948.6843014
 _enable_loop = True
 _template_filename = 'c:/programdata/anaconda3/lib/site-packages/nikola/data/themes/base/templates/comments_helper.tmpl'
 _template_uri = 'comments_helper.tmpl'
@@ -65,8 +65,8 @@ def render_comment_form(context,url,title,identifier):
         intensedebate = _mako_get_namespace(context, 'intensedebate')
         isso = _mako_get_namespace(context, 'isso')
         comment_system = context.get('comment_system', UNDEFINED)
-        muut = _mako_get_namespace(context, 'muut')
         facebook = _mako_get_namespace(context, 'facebook')
+        muut = _mako_get_namespace(context, 'muut')
         commento = _mako_get_namespace(context, 'commento')
         __M_writer = context.writer()
         __M_writer('\n')
@@ -106,8 +106,8 @@ def render_comment_link(context,link,identifier):
         intensedebate = _mako_get_namespace(context, 'intensedebate')
         isso = _mako_get_namespace(context, 'isso')
         comment_system = context.get('comment_system', UNDEFINED)
-        muut = _mako_get_namespace(context, 'muut')
         facebook = _mako_get_namespace(context, 'facebook')
+        muut = _mako_get_namespace(context, 'muut')
         commento = _mako_get_namespace(context, 'commento')
         __M_writer = context.writer()
         __M_writer('\n')
@@ -147,8 +147,8 @@ def render_comment_link_script(context):
         intensedebate = _mako_get_namespace(context, 'intensedebate')
         isso = _mako_get_namespace(context, 'isso')
         comment_system = context.get('comment_system', UNDEFINED)
-        muut = _mako_get_namespace(context, 'muut')
         facebook = _mako_get_namespace(context, 'facebook')
+        muut = _mako_get_namespace(context, 'muut')
         commento = _mako_get_namespace(context, 'commento')
         __M_writer = context.writer()
         __M_writer('\n')
