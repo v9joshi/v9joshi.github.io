@@ -64,5 +64,6 @@
 'render_sources:output\\about-me\\index.rst', (64512, 327)
 'render_sources:output\\index.rst', (65024, 238)
 'render_posts:cache\\pages\\index.html', (65536, 348)
-'render_pages:output\\index.html', (66048, 2850)
+'render_pages:output\\index.html', (66048, 2849)
 'render_taxonomies:output\\blog\\index.html', (69120, 4339)
+'copy_files:output\\VarunJoshiCV.pdf', (73728, 258)
